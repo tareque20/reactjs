@@ -1,6 +1,6 @@
 .idea
 Hello-World/node_modules/*
-StateLess/node_modules/*
 Hello-World/assets/
 Hello-World/node_modules/
-StateFull
+StateLess/node_modules/*
+StateFull/node_modules/*
