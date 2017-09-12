@@ -1,8 +1,10 @@
 .idea
 Hello-World/node_modules/*
-Hello-World/node_modules/
 StateLess/node_modules/*
 StateFull/node_modules/*
 StateProps/node_modules/*
 ComponentLifeCycle/node_modules/*
 Form/node_modules/*
+Timer/node_modules/*
+Test/node_modules/*
+FilterableProductTable/node_modules/*
